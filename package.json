@@ -1,0 +1,25 @@
+{
+  "name": "inchworm",
+  "version": "0.1.0",
+  "description": "Scrolling triggers classes to allow for CSS animation and other changes",
+  "main": "inchworm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanrevell/inchworm.git"
+  },
+  "author": "Jonathan Revell H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanrevell/inchworm/issues"
+  },
+  "homepage": "https://github.com/jonathanrevell/inchworm#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
